@@ -42,7 +42,7 @@ public class Exercicio3 {
             System.out.println("Conceito: " + conceito);
         }
 
-        if (conceito == 'A' || conceito == 'B' || conceito == 'B') {
+        if (conceito == 'A' || conceito == 'B' || conceito == 'C') {
             System.out.println("Aluno Aprovado.");
         } else {
             System.out.println("Aluno Reprovado.");

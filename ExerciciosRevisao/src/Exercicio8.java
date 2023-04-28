@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class Exercicio8 {
     public static void main(String[] args) {
 
-        double num = 0;
+        double num;
         Scanner ler = new Scanner(System.in);
         List<Double> salarios = new ArrayList<>();
         System.out.println("Digite os salários. Para parar digite -1: ");
